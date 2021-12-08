@@ -1,0 +1,21 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/napasin163/pluginHost
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/napasin163/pluginInterface
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/napasin163/plugin1
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/napasin163/plugin2
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/napasin163/plugin3
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/napasin163/plugin4
+[submodule "pluginNapa"]
+	path = pluginNapa
+	url = https://github.com/napasin163/pluginNapa.git
